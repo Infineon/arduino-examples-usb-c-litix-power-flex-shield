@@ -8,7 +8,7 @@ The following example applications are provided:
 
 * Battery charger - [TLD5542-1CHARGER_V1.031](TLD5542-1CHARGER_V1.031)
 * Adjustable voltage regulator - [TLD5542-1VREG_V1.02](TLD5542-1VREG_V1.02)
-* LED driver - [TLD5542-1LED_DRV_V1.02](TLD5542-1LED_DRV_V1.02)
+* LED driver - [TLD5542-1LED_DRV_V1.02](TLD5542-1LED_DRV_V1.03)
 
 ## :warning: Importance notice :warning:
 
