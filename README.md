@@ -1,5 +1,7 @@
 # USB-C PD LITIX™ Power Flex shield Arduino examples
 
+[![Check links](https://github.com/Infineon/arduino-examples-usb-c-litix-power-flex-shield/actions/workflows/check_links.yml/badge.svg)](https://github.com/Infineon/arduino-examples-usb-c-litix-power-flex-shield/actions/workflows/check_links.yml)
+
 This repository contains application examples for the Infineon's LITIX™ Power Flex [TLD5542-1CHG_SHIELD](https://www.infineon.com/cms/en/product/evaluation-boards/tld5542-1chg_shield/) compatible with Arduino UNO form factor microcontrollers evaluation boards. 
 
 <img src="docs/img/tld5542-1chg-shield.jpg" width=400>
